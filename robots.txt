@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lory-b.github.io/ChatGPT-mirror-cn/sitemap.xml
